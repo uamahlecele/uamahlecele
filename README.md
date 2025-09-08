@@ -1,8 +1,6 @@
 <h1 align="center"> Amahle Cele </h1>
 <h3 align="center">A software engineering student at WeThinkCode_ </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uamahlecele&label=Profile%20views&color=0e75b6&style=flat" alt="uamahlecele" /> </p>
-
 - 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **uamahlecele@gmail.com**
