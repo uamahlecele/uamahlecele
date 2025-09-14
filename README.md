@@ -1,5 +1,5 @@
 <h1 align="center"> Amahle Cele </h1>
-<h3 align="center">A software engineering student at WeThinkCode_ </h3>
+<h3 align="center">San'bona, I'm a software engineering student at WeThinkCode_. Just trying to figure this coding thing out.</h3>
 
 - 🌱 I’m currently learning **Python**
 
