@@ -1,5 +1,5 @@
 <h1 align="center">San'bonani, I'm Amahle </h1>
-<h3 align="center">I'm a software engineering student at WeThinkCode_. Just trying to figure this coding thing out.</h3>
+<h3 align="center">I'm a First Year software engineering student at WeThinkCode_. Aspiring FullStack Developer.</h3>
 
 - 🌱 I’m currently learning **Python**
 
