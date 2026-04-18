@@ -1,7 +1,7 @@
-<h1 align="center">San'bonani, I'm Amahle </h1>
+<h1 align="center">San'bonani, igama uAmahle. </h1>
 <h3 align="center">I'm a first year software engineering student at WeThinkCode_. Aspiring FullStack Developer.</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python**, **Java**
 
 - 📫 How to reach me **uamahlecele@gmail.com**
 
