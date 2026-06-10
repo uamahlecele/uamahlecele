@@ -13,7 +13,7 @@
 <p align="center">
 <!-- AUTO:START -->
 🌱 Learning: React, Java, TypeScript<br/>
-👷🏾‍♂️ Building:  Velaphi & CIBYC <br/>
+👷🏾‍♂️ Building:  Fullstack Web Applications Velaphi & CIBYC <br/>
 <!-- AUTO:END -->
 </p>
 
