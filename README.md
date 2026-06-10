@@ -13,7 +13,7 @@
 <p align="center">
 <!-- AUTO:START -->
 🌱 Learning: React, Java, TypeScript<br/>
-👷🏾‍♂️ Building:  CIBYC utilising the CCAPI by Canon <br/>
+👷🏾‍♂️ Building:  Velaphi & CIBYC <br/>
 <!-- AUTO:END -->
 </p>
 
