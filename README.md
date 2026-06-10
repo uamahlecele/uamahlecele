@@ -1,13 +1,26 @@
-<h1 align="center">San'bonani, igama uAmahle. </h1>
-<h3 align="center">I'm a software engineering student at WeThinkCode_. Aspiring FullStack Developer.</h3>
-
-- 🌱 I’m currently learning **Python**, **Java**
-
-- 📫 How to reach me **uamahlecele@gmail.com**
-
+<p align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=F7CB00&background=FF0000A5&width=435&lines=San'bona%2C+my+name+is+Amahle+Cele.;Software+Engineer%2C+Fullstack+Developer;IoT%2C+Cloud+%26+Data+Enthusiast" alt="Typing SVG" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<h2 align="center">My current tools</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,express,html,nodejs,css,git,github,gitlab,postman,figma,vscode,java,maven,mysql" />
+</p>
+
+<h2 align="center"> Currently Working on</h2>
+
+<p align="center">
+<!-- AUTO:START -->
+🌱 Learning: React, Java, TypeScript<br/>
+👷🏾‍♂️ Building:  CIBYC utilising the CCAPI by Canon <br/>
+<!-- AUTO:END -->
+</p>
+
+<h2 align="center">📊 system status</h2>
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uamahlecele&theme=one_dark_pro&hide_border=false" height="200" />
+</p>
 
